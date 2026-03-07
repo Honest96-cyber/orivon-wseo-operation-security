@@ -1,0 +1,10 @@
+{
+  "wseo_oracle": {
+    "score_int": 15,
+    "tier": "RED",
+    "reason_code": "INFINITE_ALLOWANCE",
+    "reason_code_hash": "0xff9b8c7d6e5f4g3h2i1j0k9l8m7n6o5p4q3r2s1t",
+    "timestamp": 1709717026,
+    "zk_proof_status": "MOCKED_FOR_UI_TESTING"
+  }
+}

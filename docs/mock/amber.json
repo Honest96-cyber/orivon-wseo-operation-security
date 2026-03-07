@@ -1,6 +1,10 @@
 {
-  "score_int": 61,
-  "tier": "AMBER",
-  "reason_code_hash": "0x02",
-  "timestamp": 1716239021
+  "wseo_oracle": {
+    "score_int": 60,
+    "tier": "AMBER",
+    "reason_code": "FRESH_DEPLOY_LOW_HISTORY",
+    "reason_code_hash": "0x1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t",
+    "timestamp": 1709717026,
+    "zk_proof_status": "MOCKED_FOR_UI_TESTING"
+  }
 }
